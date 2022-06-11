@@ -4,3 +4,13 @@ git push origin :test
 
 to remove from local :
 git branch -d dev
+
+
+
+how to list tag locally?
+git tag
+how to remove tag remotley?
+git push origin --delete v1.4.
+
+how to remove it locally?
+git tag -d v1.4.
