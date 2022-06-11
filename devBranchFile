@@ -1,1 +1,10 @@
 Hello from Dev Branch
+
+
+to remove from remote server
+git push origin :dev
+git push origin :test
+
+to remove from local :
+git branch -d dev
+~                     
